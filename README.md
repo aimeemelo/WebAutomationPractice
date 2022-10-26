@@ -1,3 +1,13 @@
-# Web Test Automation
+# Projeto de automação de testes Web com Selenium Webdriver + Java.
 
-Projeto de automação de testes web com Selenium Webdriver + java.
+Projeto simples de automação de testes no site : http://automationpractice.com/index.php
+
+## Pré-requisitos
+
+É necessário ter o Java, Intellij, navegadores e drivers instalados para executar este projeto.
+
+> Usei as versões `java jdk 1.8` , 'Apache Maven 3.8.6' e `ChromeDriver 105.0.5195.19`. Sugiro que você use as mesmas versões ou versões posteriores.
+
+## Apoie este projeto
+
+Se você quer apoiar este projeto, deixe um ⭐ .
